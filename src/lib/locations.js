@@ -1,0 +1,21 @@
+export const MYSORE_LOCATIONS = [
+  "Bannimantap", "Bogadi", "Brindavan Extension", "Chamundipuram",
+  "Chamundeshwari Nagar", "Dattagalli", "Devaraj Mohalla", "Elumalai Nagar",
+  "Gayathripuram", "Gokulam", "Hebbal", "Hinkal", "Hunsur Road",
+  "Ittigegud", "JLB Road", "JP Nagar", "Jayanagar",
+  "Jayalakshmipuram", "Kanakadasanagar", "Kanakpura",
+  "Kauvery Layout", "Kuvempunagar", "Lakshmipuram",
+  "Lalithadripura", "Lashkar Mohalla", "Lingambudhi",
+  "Madikeri Road", "Mahadevpura", "Mahajana Road",
+  "Mandi Mohalla", "Metagalli", "Mysore-Bangalore Highway",
+  "N R Mohalla", "Naidu Layout", "Nanjangud Road",
+  "New Kantharaj Urs Road", "Niluvagilu", "Ooty Road",
+  "Paduvarahalli", "Perianna Chetty Street", "Rabindranath Tagore Nagar",
+  "Rajendranagar", "Ramakrishnanagar", "Saraswathipuram",
+  "Sathagalli", "Seshadri Road", "Shivarampet",
+  "Srirampura", "T Narasipur Road", "Udayagiri",
+  "V V Mohalla", "Vidyaranyapuram", "Vijayanagar",
+  "Vijayanagar 1st Stage", "Vijayanagar 2nd Stage",
+  "Vijayanagar 3rd Stage", "Vijayanagar 4th Stage",
+  "Vishweshwaranagar", "Yadavagiri"
+].sort();
