@@ -1,0 +1,33 @@
+{
+  "name": "Prediction",
+  "type": "object",
+  "properties": {
+    "location": {
+      "type": "string",
+      "description": "Property location"
+    },
+    "sqft": {
+      "type": "number",
+      "description": "Total square feet"
+    },
+    "bhk": {
+      "type": "number",
+      "description": "Number of bedrooms (BHK)"
+    },
+    "bath": {
+      "type": "number",
+      "description": "Number of bathrooms"
+    },
+    "predicted_price": {
+      "type": "number",
+      "description": "Predicted price in Lakhs"
+    }
+  },
+  "required": [
+    "location",
+    "sqft",
+    "bhk",
+    "bath",
+    "predicted_price"
+  ]
+}
