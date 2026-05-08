@@ -35,6 +35,11 @@ The project follows a **separation of concerns architecture**, ensuring clear di
 * 🧾 Recent predictions tracking
 * 📱 Fully responsive UI
 
+![Project Screenshot](Images/Result_02.png)
+![Project Screenshot](Images/Result_03.png)
+![Project Screenshot](Images/Result_06.png)
+![Project Screenshot](Images/Result_07.png)
+
 ---
 
 ## 🏗️ Tech Stack
