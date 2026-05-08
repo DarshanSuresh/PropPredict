@@ -3,6 +3,7 @@
 ### AI-Powered Real Estate Price Prediction System
 
 ![Project Screenshot](Images/Result_01.png)
+![Project Screenshot](Images/Result_08.png)
 
 ---
 
