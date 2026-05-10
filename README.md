@@ -133,7 +133,7 @@ pip install -r requirements.txt
 ---
 
 #### 4️⃣ Environment Configuration
-
+ 
 Create a `.env.local` file in the **client root directory**:
 
 ```env
